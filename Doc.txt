@@ -1,2 +1,12 @@
 # Título
+<<<<<<< HEAD
 # Prueba main1.1
+=======
+<<<<<<< HEAD
+# Prueba Branch2.1
+# Prueba Branch2.2
+# Ahhhhh
+=======
+# Prueba Branch1.1
+>>>>>>> Branch1
+>>>>>>> Branch2
