@@ -1,3 +1,8 @@
 # Título
+<<<<<<< HEAD
 # Prueba Branch2.1
 # Prueba Branch2.2
+# Ahhhhh
+=======
+# Prueba Branch1.1
+>>>>>>> Branch1
